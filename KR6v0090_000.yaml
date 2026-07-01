@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0090/zw/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 敦煌寺院所藏大藏經概貌
+  edition:
+    short: zw
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW08/ZW08n0070.xml
+    old_id: ZW08n0070
+hash: sha256:6f89af4b55cf8384dfd65b7ab070729634ae643ba4735568a4af5477c68f28d9
