@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0090/v1
 canonical_location: https://kanripo.org/bkk/KR6v0090/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 敦煌寺院所藏大藏經概貌
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0090_000.yaml, hash: 'sha256:6f89af4b55cf8384dfd65b7ab070729634ae643ba4735568a4af5477c68f28d9'}
-  - {seq: 1, filename: KR6v0090_001.yaml, hash: 'sha256:cc9f45261b759b1aa379fef21f00318cddeaa5a7d10dd9fbcbe316ecc9204569'}
+  - {seq: 1, filename: KR6v0090_001.yaml, hash: 'sha256:7340cde94b8b0b4ad4d50b30ed809124260b91292090054725a90ce26cbe377c'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0090_000.markers.yaml, hash: 'sha256:9f9baca15349e99e138536599115b363861fd4ba5792f848c7e759fa7f517bee'}
-  - {seq: 1, role: markers, filename: assets/KR6v0090_001.markers.yaml, hash: 'sha256:ac662d62f6237dd5d6129d0e161d1a6049e7f996fa265379902677e5470db4cf'}
+  - {seq: 1, role: markers, filename: assets/KR6v0090_001.markers.yaml, hash: 'sha256:30d9c0c2b1d6497b158985079985d72efcc8e45c85d7197e806abdb86e32717e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -107,4 +107,7 @@ table_of_contents:
   label: 三、餘論
   type: mulu
   level: 1
-hash: sha256:96b28853d79a212043248df993b7a52126b99a252c310d97da93b2bc28090c72
+hash: sha256:7f84bc123482e69ff581ebf174d7d3863485fbe1adb7980fdf1137e056a3e890
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
